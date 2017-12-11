@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="1" errors="0" failures="0" skip="0"><testcase classname="affinityJenkins.tests.controlled_tests.ControlledTests" name="test1" time="0.000"><system-out><![CDATA[{'a.com': ['andy', 'bob', 'charlie'], 'b.com': ['andy', 'bob'], 'c.com': ['charlie']}
+]]></system-out></testcase></testsuite>
