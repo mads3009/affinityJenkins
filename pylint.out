@@ -1,0 +1,101 @@
+No config file found, using default configuration
+************* Module affinityJenkins
+__init__.py:1: [C0103(invalid-name), ] Invalid module name "affinityJenkins"
+************* Module affinityJenkins.compute_highest_affinity
+compute_highest_affinity.py:3: [C0303(trailing-whitespace), ] Trailing whitespace
+compute_highest_affinity.py:14: [C0326(bad-whitespace), ] Exactly one space required after comma
+    for i in range(0,len(site_list)):
+                    ^
+compute_highest_affinity.py:15: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:22: [C0326(bad-whitespace), ] Exactly one space required around assignment
+    site1=""
+         ^
+compute_highest_affinity.py:23: [C0326(bad-whitespace), ] Exactly one space required around assignment
+    site2=""
+         ^
+compute_highest_affinity.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:30: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:30: [C0326(bad-whitespace), ] Exactly one space required around comparison
+                if(length>max_aff):
+                         ^
+compute_highest_affinity.py:32: [C0326(bad-whitespace), ] Exactly one space required around assignment
+                    site1=key1
+                         ^
+compute_highest_affinity.py:33: [C0326(bad-whitespace), ] Exactly one space required around assignment
+                    site2=key2
+                         ^
+compute_highest_affinity.py:35: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:35: [C0326(bad-whitespace), ] Exactly one space required around comparison
+    if(site1.lower()<site2.lower()):
+                    ^
+compute_highest_affinity.py:46: [C0326(bad-whitespace), ] Exactly one space required after comma
+    for i in range(0,len(site_list)):
+                    ^
+compute_highest_affinity.py:47: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:54: [C0326(bad-whitespace), ] Exactly one space required around assignment
+    site1=""
+         ^
+compute_highest_affinity.py:55: [C0326(bad-whitespace), ] Exactly one space required around assignment
+    site2=""
+         ^
+compute_highest_affinity.py:60: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:62: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:62: [C0326(bad-whitespace), ] Exactly one space required around comparison
+                if(length>max_aff):
+                         ^
+compute_highest_affinity.py:64: [C0326(bad-whitespace), ] Exactly one space required around assignment
+                    site1=key1
+                         ^
+compute_highest_affinity.py:65: [C0326(bad-whitespace), ] Exactly one space required around assignment
+                    site2=key2
+                         ^
+compute_highest_affinity.py:67: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:67: [C0326(bad-whitespace), ] Exactly one space required around comparison
+    if(site1.lower()<site2.lower()):
+                    ^
+compute_highest_affinity.py:77: [C0326(bad-whitespace), ] Exactly one space required after comma
+    for i in range(0,len(site_list)):
+                    ^
+compute_highest_affinity.py:78: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:85: [C0326(bad-whitespace), ] Exactly one space required around assignment
+    site1=""
+         ^
+compute_highest_affinity.py:86: [C0326(bad-whitespace), ] Exactly one space required around assignment
+    site2=""
+         ^
+compute_highest_affinity.py:91: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:93: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:93: [C0326(bad-whitespace), ] Exactly one space required around comparison
+                if(length>max_aff):
+                         ^
+compute_highest_affinity.py:95: [C0326(bad-whitespace), ] Exactly one space required around assignment
+                    site1=key1
+                         ^
+compute_highest_affinity.py:96: [C0326(bad-whitespace), ] Exactly one space required around assignment
+                    site2=key2
+                         ^
+compute_highest_affinity.py:98: [C0325(superfluous-parens), ] Unnecessary parens after 'if' keyword
+compute_highest_affinity.py:98: [C0326(bad-whitespace), ] Exactly one space required around comparison
+    if(site1.lower()<site2.lower()):
+                    ^
+compute_highest_affinity.py:1: [C0111(missing-docstring), ] Missing module docstring
+compute_highest_affinity.py:9: [C0111(missing-docstring), highest_affinity] Missing function docstring
+compute_highest_affinity.py:13: [W0622(redefined-builtin), highest_affinity] Redefining built-in 'map'
+compute_highest_affinity.py:35: [R1705(no-else-return), highest_affinity] Unnecessary "else" after "return"
+compute_highest_affinity.py:9: [W0613(unused-argument), highest_affinity] Unused argument 'time_list'
+compute_highest_affinity.py:41: [C0111(missing-docstring), highest_affinity2] Missing function docstring
+compute_highest_affinity.py:45: [W0622(redefined-builtin), highest_affinity2] Redefining built-in 'map'
+compute_highest_affinity.py:67: [R1705(no-else-return), highest_affinity2] Unnecessary "else" after "return"
+compute_highest_affinity.py:41: [W0613(unused-argument), highest_affinity2] Unused argument 'time_list'
+compute_highest_affinity.py:72: [C0111(missing-docstring), highest_affinity3] Missing function docstring
+compute_highest_affinity.py:76: [W0622(redefined-builtin), highest_affinity3] Redefining built-in 'map'
+compute_highest_affinity.py:98: [R1705(no-else-return), highest_affinity3] Unnecessary "else" after "return"
+compute_highest_affinity.py:72: [W0613(unused-argument), highest_affinity3] Unused argument 'time_list'
+************* Module affinityJenkins.tests.controlled_tests
+tests\controlled_tests.py:1: [C0111(missing-docstring), ] Missing module docstring
+tests\controlled_tests.py:4: [C0111(missing-docstring), ControlledTests] Missing class docstring
+tests\controlled_tests.py:5: [C0111(missing-docstring), ControlledTests.test1] Missing method docstring
+
+-----------------------------------
+Your code has been rated at 3.01/10
+

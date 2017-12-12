@@ -1,6 +1,14 @@
-nose.plugins.cover: ERROR: Coverage not available: unable to import coverage module
 .
+Coverage.py warning: Module affinityJenkins--cover-inclusive was never imported. (module-not-imported)
+Name                          Stmts   Miss  Cover
+-------------------------------------------------
+__init__.py                       0      0   100%
+compute_highest_affinity.py      63     41    35%
+tests\__init__.py                 0      0   100%
+tests\controlled_tests.py        10      0   100%
+-------------------------------------------------
+TOTAL                            73     41    44%
 ----------------------------------------------------------------------
-Ran 1 test in 0.002s
+Ran 1 test in 0.003s
 
 OK
